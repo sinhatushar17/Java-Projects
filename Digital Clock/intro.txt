@@ -1,1 +1,4 @@
-This is a simple Digital clock proram which I've made using Swings Java concept, during my 4th sem.
+This is a simple Digital clock proram which I had made during my 4th sem.
+Ide Used - Eclipse
+Programming Language - Core Java , Concept - Swings.
+ 
